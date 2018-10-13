@@ -1,5 +1,6 @@
 from random import randint, choice
 
+#I just often find I want one of these for something.
 listname = ['get', 'the', 'heck']
 dictname = { 
             'item1': 'this is item 1',
